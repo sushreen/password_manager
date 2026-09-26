@@ -39,4 +39,4 @@ A lightweight, terminal-based **Python CLI application** designed to manage and 
 * `password_manager.py` — The core application containing execution logic and user menus.
 * `passwords.txt` — The persistent flat-file text storage holding your saved credentials.
 * `README.md` — Project documentation and setup guidelines.
-*
+
